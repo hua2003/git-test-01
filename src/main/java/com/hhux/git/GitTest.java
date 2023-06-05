@@ -7,6 +7,6 @@ public class GitTest {
         System.out.println("hot-fix test");
 
         System.out.println("push 111");
-        System.out.println("ppp");
+        System.out.println("pull 111");
     }
 }
